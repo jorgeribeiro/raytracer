@@ -1,0 +1,5 @@
+README
+
+Usage:
+To compile use mingw32-make inside the folder.
+To execute use Raytracer + name of input file.
